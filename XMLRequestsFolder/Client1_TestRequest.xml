@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<testRequest>
+  <author>Yadav Narayana Murthy</author>
+  <test name="First Test">
+    <testDriver>TestDriver.dll</testDriver>
+    <library>TestedCode.dll</library>
+  </test>     
+  <test name="Second Test">
+    <testDriver>AnotherTestDriver.dll</testDriver>
+    <library>AnotherTestedCode.dll</library>
+  </test>
+  <test name="Third Test">
+    <testDriver>NoTestDriver.dll</testDriver>
+    <library>NoTestedCode.dll</library>
+  </test>
+</testRequest>

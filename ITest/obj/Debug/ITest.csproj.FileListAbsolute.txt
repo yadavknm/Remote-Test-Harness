@@ -1,0 +1,28 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\bin\Debug\ITest.dll
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\bin\Debug\ITest.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\obj\Debug\ITest.dll
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\obj\Debug\ITest.pdb
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\bin\Debug\Messages.exe
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\bin\Debug\Messages.pdb
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache
+C:\Users\Yadav N Murthy\Desktop\SU\SMA\Code\Project4HelpF16\InstrSol-Project2-WithThreads\ITest\bin\Debug\ITest.dll
+C:\Users\Yadav N Murthy\Desktop\SU\SMA\Code\Project4HelpF16\InstrSol-Project2-WithThreads\ITest\bin\Debug\ITest.pdb
+C:\Users\Yadav N Murthy\Desktop\SU\SMA\Code\Project4HelpF16\InstrSol-Project2-WithThreads\ITest\bin\Debug\Messages.exe
+C:\Users\Yadav N Murthy\Desktop\SU\SMA\Code\Project4HelpF16\InstrSol-Project2-WithThreads\ITest\bin\Debug\Messages.pdb
+C:\Users\Yadav N Murthy\Desktop\SU\SMA\Code\Project4HelpF16\InstrSol-Project2-WithThreads\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache
+C:\Users\Yadav N Murthy\Desktop\SU\SMA\Code\Project4HelpF16\InstrSol-Project2-WithThreads\ITest\obj\Debug\ITest.dll
+C:\Users\Yadav N Murthy\Desktop\SU\SMA\Code\Project4HelpF16\InstrSol-Project2-WithThreads\ITest\obj\Debug\ITest.pdb
+C:\Users\Yadav N Murthy\Desktop\SU\SMA\Project 4\submission\RemoteTestHarness_Project4\ITest\bin\Debug\ITest.dll
+C:\Users\Yadav N Murthy\Desktop\SU\SMA\Project 4\submission\RemoteTestHarness_Project4\ITest\bin\Debug\ITest.pdb
+C:\Users\Yadav N Murthy\Desktop\SU\SMA\Project 4\submission\RemoteTestHarness_Project4\ITest\bin\Debug\Messages.exe
+C:\Users\Yadav N Murthy\Desktop\SU\SMA\Project 4\submission\RemoteTestHarness_Project4\ITest\bin\Debug\Messages.pdb
+C:\Users\Yadav N Murthy\Desktop\SU\SMA\Project 4\submission\RemoteTestHarness_Project4\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache
+C:\Users\Yadav N Murthy\Desktop\SU\SMA\Project 4\submission\RemoteTestHarness_Project4\ITest\obj\Debug\ITest.dll
+C:\Users\Yadav N Murthy\Desktop\SU\SMA\Project 4\submission\RemoteTestHarness_Project4\ITest\obj\Debug\ITest.pdb
+F:\SU\Courses\Fall 2016\SMA\Project 4\submission\RemoteTestHarness_Project4\ITest\bin\Debug\ITest.dll
+F:\SU\Courses\Fall 2016\SMA\Project 4\submission\RemoteTestHarness_Project4\ITest\bin\Debug\ITest.pdb
+F:\SU\Courses\Fall 2016\SMA\Project 4\submission\RemoteTestHarness_Project4\ITest\bin\Debug\Messages.exe
+F:\SU\Courses\Fall 2016\SMA\Project 4\submission\RemoteTestHarness_Project4\ITest\bin\Debug\Messages.pdb
+F:\SU\Courses\Fall 2016\SMA\Project 4\submission\RemoteTestHarness_Project4\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache
+F:\SU\Courses\Fall 2016\SMA\Project 4\submission\RemoteTestHarness_Project4\ITest\obj\Debug\ITest.dll
+F:\SU\Courses\Fall 2016\SMA\Project 4\submission\RemoteTestHarness_Project4\ITest\obj\Debug\ITest.pdb

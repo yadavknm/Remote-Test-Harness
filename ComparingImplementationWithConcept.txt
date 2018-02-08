@@ -1,0 +1,11 @@
+Comparing this implementation with the concept developed in Project #3.
+_________________________________________________________________________
+
+1) Does this project fully implement its concept? Was the original concept practical?
+
+	- The client GUI was not implemented as mentioned in the operational concept document.
+	- Different channels were created for messages and files.
+	- This project nearly implements 90% of the concept that was developed in Project 3.
+
+2) Were there things you learned during the implementation that made the origninal concept less relevant or incomplete?
+	- Understood the concept of single endpoints for each server rather than multiple endpoints.
